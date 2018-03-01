@@ -3,6 +3,7 @@
     <div class="aside">
       <div class="info-card">
         <h1>Out to Future</h1>
+        <h2>CoC TRPG Logs</h2>
       </div>
       <div id="particles-js"></div>
     </div>
